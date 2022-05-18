@@ -13,3 +13,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# Test
+npx hardhat run scripts/run.js 
+
+# Deploy
+npx hardhat run scripts/deploy.js --network korvan     
