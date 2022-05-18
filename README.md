@@ -1,4 +1,10 @@
-# Basic Sample Hardhat Project
+# Message to Ethereum Blockchain
+
+A Web3Dev Bootcamp
+
+https://bootcamp.web3dev.com.br/
+
+Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
