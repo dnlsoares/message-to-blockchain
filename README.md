@@ -32,4 +32,5 @@ npx hardhat run scripts/run.js
 npx hardhat run scripts/deploy.js --network korvan
 
 copy new smartcontract address
+
 copy new smartcontract JSON to ABI
