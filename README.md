@@ -23,7 +23,7 @@ npx hardhat help
 ```
 
 # APP
-https://replit.com/@dnlss/projeto-tchauzinho#src/App.jsx
+https://replit.com/@dnlss/message-to-blockchain
 
 # Test
 npx hardhat run scripts/run.js 
